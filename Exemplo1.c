@@ -4,7 +4,7 @@ struct caminho
  int distancia;
  char inicio[50];
  char fim[50];
- int ordem;
+ int ordem;;;
 };
 Criar um programa em C que possa armazenar um vetor da struct "caminho", com até 6 estruturas,
 que irão armazenar trechos de uma viagem indicando a cidade inicial e a cidade final.
